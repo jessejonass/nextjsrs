@@ -19,5 +19,8 @@
     "@types/styled-components": "^5.1.7",
     "babel-plugin-styled-components": "^1.12.0",
     "typescript": "^4.2.2"
+  },
+  "ts-standard": {
+    "project": "path/to/tsconfig.json"
   }
 }
